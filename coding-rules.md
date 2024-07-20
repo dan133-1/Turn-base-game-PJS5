@@ -1,4 +1,4 @@
-# coding-rules for Turn-base-game-PJS5
+# coding-rules
 
 ! Don't use abbreviation
 
